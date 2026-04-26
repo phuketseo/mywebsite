@@ -1,0 +1,10 @@
+﻿ไฟล์,หน้าที่
+`SchemaLocalBusiness.astro`,JSON-LD LocalBusiness
+`Nav.astro`,Navigation bar
+`Hero.astro`,Hero section
+`Marquee.astro`,Data ticker
+`Services.astro`,Bento grid services
+`DataViz.astro`,Interactive chart
+`Process.astro`,4-step process
+`Proof.astro`,Testimonials
+`CTA.astro`,Call to action

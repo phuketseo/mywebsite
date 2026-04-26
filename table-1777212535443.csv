@@ -1,0 +1,3 @@
+﻿ไฟล์,หน้าที่
+`index.astro`,Landing page
+`blog/[...slug].astro`,Blog post template
